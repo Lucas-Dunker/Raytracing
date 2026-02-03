@@ -1,3 +1,0 @@
-/home/ldunk/Programming-Projects/RayTracing-OneWeekend/build/Release/CMakeFiles/raytracer.dir
-/home/ldunk/Programming-Projects/RayTracing-OneWeekend/build/Release/CMakeFiles/edit_cache.dir
-/home/ldunk/Programming-Projects/RayTracing-OneWeekend/build/Release/CMakeFiles/rebuild_cache.dir
